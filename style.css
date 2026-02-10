@@ -1,0 +1,11 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+.watermark {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  opacity: 0.2;
+  font-size: 50px;
+}
